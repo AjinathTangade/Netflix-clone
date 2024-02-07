@@ -1,3 +1,11 @@
+![image](https://github.com/AjinathTangade/Netflix-clone/assets/93082482/8ae72362-d54b-446f-9146-5a11acea3804)
+
+
+
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
